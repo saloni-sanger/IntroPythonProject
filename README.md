@@ -1,5 +1,5 @@
 # Introductory Python Project: 
-Data Structures, File I/O, String Processing
+# Data Structures, File I/O, String Processing
 
 ### Background
 I made this project in Languages and Computation with 
